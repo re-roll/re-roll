@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <h1> Hi there 👋 </h1>
-</div>
+<h1> Hi there 👋 </h1>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=re-roll&show_icons=true&theme=dark)](https://git.io/streak-stats)
 

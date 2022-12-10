@@ -3,7 +3,8 @@
 </div>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=re-roll&show_icons=true&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re-roll&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re-roll&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **re-roll/re-roll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

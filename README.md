@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re-roll&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=re-roll&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re-roll&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **re-roll/re-roll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
